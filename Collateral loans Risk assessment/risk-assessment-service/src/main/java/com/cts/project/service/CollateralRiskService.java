@@ -14,3 +14,5 @@ public interface CollateralRiskService {
 	CollateralRiskPercent getRiskAssessment(String token, Integer loanId) throws LoanNotFoundException;
 
 }
+
+//added example to test ajay
