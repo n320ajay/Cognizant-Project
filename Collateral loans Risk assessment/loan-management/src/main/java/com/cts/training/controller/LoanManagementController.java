@@ -21,7 +21,7 @@ import com.cts.training.model.LoanApplication;
 import com.cts.training.pojo.CashDeposit;
 import com.cts.training.pojo.RealEstate;
 import com.cts.training.service.LoanManagementService;
-
+//for testing
 /**
  * This Class is marked as Rest Controller LoanManagementController
  * 
