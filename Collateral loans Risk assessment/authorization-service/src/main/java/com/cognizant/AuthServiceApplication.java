@@ -22,3 +22,4 @@ public class AuthServiceApplication {
 	}
 
 }
+//added for testing
